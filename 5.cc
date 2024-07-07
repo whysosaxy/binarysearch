@@ -1,7 +1,6 @@
 #include <cstdio>
 #include <cstdint>
 #include <vector>
-#include <ranges>
 typedef int64_t lld;
 using namespace std;
 
