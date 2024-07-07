@@ -17,7 +17,6 @@ lld f(const vector<lld> &v, const lld key)
         }
         else if (key < v.at(mid))
         {
-            // left = mid + 1;
             is_ascending ? right = mid - 1 : left = mid + 1;
         }
         else
